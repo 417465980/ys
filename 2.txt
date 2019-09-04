@@ -1,4 +1,4 @@
-°æ±¾¿â
+æ±¾¿â
 ¹¤×÷Çø
 Ôİ´æÇø
 
@@ -20,5 +20,5 @@ git remote add origin git@github.com:xxxx.xx.git 	remote  Ò£Ô¶  origin ÆğÔ´
 git push -u origin master ÍÆËÍÔ¶³Ì¿â  // ÁË-u²ÎÊı£¬Git²»µ«»á°Ñ±¾µØµÄmaster·ÖÖ§ÄÚÈİÍÆËÍµÄÔ¶³ÌĞÂµÄmaster·ÖÖ§£¬»¹»á°Ñ±¾µØµÄmaster·ÖÖ§ºÍÔ¶³ÌµÄmaster·ÖÖ§¹ØÁªÆğÀ´
 git clone  git@github.com:xxxx.xx.git
 
-
+nihao
 
