@@ -1,4 +1,15 @@
+<<<<<<< HEAD
 æ±¾¿â
+=======
+<<<<<<< HEAD
+git is a distributed ersion control system
+git is free software distributed under the GPL
+Git has a mutable index called stage.
+Git tracks changes.
+git has a mutable index called stage.
+=======
+°æ±¾¿â
+>>>>>>> test
 ¹¤×÷Çø
 Ôİ´æÇø
 
@@ -12,13 +23,19 @@ git reflog	 //²é¿´ÃüÁîÀúÊ·
 
 git reset --hard adcs1sa  // »ØÍËµ½Ä³°æ±¾
 git reset HEAD .  ³·Ïú¹¤×÷ÇøµÄĞŞ¸Ä  ¼´³·Ïúadd   ÃüÁî¼È¿ÉÒÔ»ØÍË°æ±¾£¬Ò²¿ÉÒÔ°ÑÔİ´æÇøµÄĞŞ¸Ä»ØÍËµ½¹¤×÷Çø¡£
-git checkout -- . ·ÅÆúĞŞ¸Ä ¶ªÆú¹¤×÷ÇøµÄĞŞ¸Ä£º
+it checkout -- . ·ÅÆúĞŞ¸Ä ¶ªÆú¹¤×÷ÇøµÄĞŞ¸Ä£º
 
 git rm 1.txt °æ±¾¿âÖĞÉ¾³ı¸ÃÎÄ¼ş
 
 git remote add origin git@github.com:xxxx.xx.git 	remote  Ò£Ô¶  origin ÆğÔ´
 git push -u origin master ÍÆËÍÔ¶³Ì¿â  // ÁË-u²ÎÊı£¬Git²»µ«»á°Ñ±¾µØµÄmaster·ÖÖ§ÄÚÈİÍÆËÍµÄÔ¶³ÌĞÂµÄmaster·ÖÖ§£¬»¹»á°Ñ±¾µØµÄmaster·ÖÖ§ºÍÔ¶³ÌµÄmaster·ÖÖ§¹ØÁªÆğÀ´
 git clone  git@github.com:xxxx.xx.git
+hello
 
-nihao
+
+
+
+
+
+
 
